@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikburla" alt="karthikburla" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Web development using mern stack, dsa with c++**
+- 🌱 I’m currently learning **Machine Learning, Web development, dsa with c++**
 
 - 👯 I’m looking to collaborate on **Mern stack Web projects, Machine Learning**
 
