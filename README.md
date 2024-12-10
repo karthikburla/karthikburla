@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Bhavani Karthik Burla</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikburla&label=Profile%20views&color=0e75b6&style=flat" alt="karthikburla" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Web development, dsa with c++**
 
-- 👯 I’m looking to collaborate on **Mern stack Web projects, Machine Learning**
+- 👯 I’m looking to collaborate on **Web development, Machine Learning**
 
 - 📫 How to reach me **karthikyadavburla7@gmail.com**
 
