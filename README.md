@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikburla" alt="karthikburla" /></a> </p>
 
-- 🔭 I’m currently working on **Dsa with C++,Gen AI Development,Machine Learning,Frontend Development**
+- 🔭 I’m currently working on **Dsa with C++,Gen AI Development,Machine Learning,Frontend Development.**
 
 - 🌱 I’m currently learning **Machine Learning ,Dsa with C++ ,Gen AI development.**
 
