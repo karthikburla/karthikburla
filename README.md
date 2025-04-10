@@ -33,7 +33,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=karthikburla&icon=0&color=0)](https://visitcount.itsvg.in)
   
-![AI Quote](https://github-readme-quotes.vercel.app/api?theme=dark&quote=ai)
+
 
 
 
