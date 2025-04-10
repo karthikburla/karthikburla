@@ -33,7 +33,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=karthikburla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Developer Quote
+
 ![Quote](https://zenquotes.io/api/image)
 
 
