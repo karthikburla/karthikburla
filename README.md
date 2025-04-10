@@ -2,6 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikburla&label=Profile%20views&color=0e75b6&style=flat" alt="karthikburla" /> </p>
 
+- 🔭 I’m currently working on **Dsa with C++,Gen AI Development,Machine Learning,Frontend Development**
+
+- 🌱 I’m currently learning **Machine Learning ,Dsa with C++ ,Gen AI development.**
+
+- 👯 I’m looking to collaborate on **LLM development,Machine Learning ,Frontend development.**
+
+- 📫 How to reach me **karthikyadavburla7@gmail.com**
+
+- ⚡ Fun fact **Enjoy Learning New Things**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bkarthik777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bkarthik777/" height="30" width="40" /></a>
