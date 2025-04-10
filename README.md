@@ -35,6 +35,7 @@
 
 
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![AI Quote](https://api.quotable.io/random?tags=technology,famous-quotes&maxLength=120)
 
 
